@@ -1,0 +1,5 @@
+1,注解的作用，完成一个注解工具
+2,Retrofit2 @GET @POST 参数
+3,泛型实化
+4,协程函数  GlobalScope.launch{} runBlocking{};  launch{}  suspend coroutineScope{}  CoroutineScope()  sync{}.await()=withContext(){}
+suspendCoroutine{continuation->  }
